@@ -1,0 +1,2 @@
+# mailgo
+golang , email
